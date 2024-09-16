@@ -1,0 +1,9 @@
+langchain-google-vertexai==1.0.5
+streamlit==1.31.0
+docarray==0.40.0
+langchain-google-community==1.0.5
+tiktoken==0.7.0
+langchain-core==0.2.32
+html2text==2024.2.26
+langchain-community==0.2.12
+sentence_transformers

@@ -1,0 +1,18 @@
+[
+    {
+      "question": "Upcoming tech conferences",
+      "answer": "['1. **What are some major upcoming tech conferences?**\n', '2. **When and where are the next big tech events scheduled?**\n', '3. **Which tech conferences are considered must-attend in the coming year?**']"
+    },
+    {
+      "question": "When is Mother's Day?",
+      "answer": "['1. **What is the date of Mother's Day this year?**\n', '2. **Does Mother's Day fall on the same date globally?**\n', '3. **How is the date for Mother's Day determined?**']"
+    },
+    {
+      "question": "The most awaited movies for 2025",
+      "answer": "['1. **What are the top anticipated movie releases for 2025?**\n', '2. **Which movie franchises have sequels coming out in 2025?**\n', '3. **Are there any major superhero or sci-fi films expected in 2025?**']"
+    },
+    {
+      "question": "How many weeks are in a year?",
+      "answer": "['1. **What is the exact number of weeks in a typical year?**\n', '2. **Does the number of weeks change in a leap year?**\n', '3. **How many days are left over after counting full weeks in a year?**']"
+    }
+]

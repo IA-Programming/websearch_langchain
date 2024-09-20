@@ -15,7 +15,8 @@
           "ms-python.python",
           "ms-python.vscode-pylance",
           "PKief.material-icon-theme",
-          "Codium.codium"
+          "Codium.codium",
+          "qwtel.sqlite-viewer"
         ]
       }
     },

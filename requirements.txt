@@ -6,4 +6,5 @@ tiktoken==0.7.0
 langchain-core==0.2.32
 html2text==2024.2.26
 langchain-community==0.2.12
-sentence_transformers
+sentence_transformers==3.1.0
+streamlit-extras==0.4.7
